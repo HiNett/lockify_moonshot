@@ -1,2 +1,2 @@
 # stocked_moonshot
-Stocked is an online data storage service
+Stocked is a project called "Moonshot", in which I'm working on the creation of an online data storage service.
