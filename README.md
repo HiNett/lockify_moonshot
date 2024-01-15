@@ -1,5 +1,5 @@
-# STOCKED
-STOCKED is a Web application offering an online data storage service. It's a student-led project, with no company or large development team behind it. The project is open-source, although sensitive data is (obviously) not shared.
+# LOCKIFY
+LOCKIFY is a Web application offering an online data storage service. It's a student-led project, with no company or large development team behind it. The project is open-source, although sensitive data is (obviously) not shared.
 
 You can open Issues if you encounter a problem, or if you wish to propose the addition of Functionalities or services (obviously, staying within the theme of the Online Storage Service).
 
@@ -15,4 +15,4 @@ In the important documents section, you will find the following documents:
 
 ## License and terms of use
 I wrote a personalized license. This license does and does not allow you to do certain things.
-I advise you to read it, it's not very long and it allows you to secure yourself in case of non-compliance with the rules. I don't want to deprive you of the use of STOCKED, but I do want to keep certain parts.
+I advise you to read it, it's not very long and it allows you to secure yourself in case of non-compliance with the rules. I don't want to deprive you of the use of LOCKIFY, but I do want to keep certain parts.
