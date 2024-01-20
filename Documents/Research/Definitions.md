@@ -1,0 +1,9 @@
+**Cloud Storage:** Cloud storage is a method of storing data online, in a third-party infrastructure. This method allows individuals and businesses to relocate their sensitive data, entrusting it to infrastructures that must maintain continuous access to the data, via a public or private connection, while ensuring data security.
+
+**Object Storage:** Object storage is a data storage method that is increasingly used these days for its simplicity and speed. Object storage allows any file (a text file, for example) to be transformed into an object. This object will then contain our important data, as well as metadata and a unique identifier. Once stored, the file can be quickly retrieved with its metadata and unique identifier, making it much easier to find.
+
+**Metadata:** Metadata is data that provides information about other data. For example, if I have a text file belonging to MR DUPONT, my metadata could be the file title, the file type, the file owner, the keywords, etc. Metadata can be stored in a database, or directly on the file itself by modifying the file properties.
+
+**Data center:** There are several types of data centers, but the definition remains the same for all data centers. A data center is a physical space in which servers run continuously to store data, productive applications, perform machine learning, run artificial intelligence, and so on. Data center are essential these days, enabling us to store all our most valuable data and knowledge.
+
+**Cloud Provider:** A Cloud Provider (also known as a Cloud Service Provider) is an IT company that offers computing power, data storage or runs applications that have access to the Internet. Cloud Providers fall into three broad categories: IaaS (infrastructure as a service), PaaS (platform as a service) and SaaS (software as a service).
