@@ -9,7 +9,7 @@
 [What is a Cloud Service Provider?  |  Google Cloud](https://cloud.google.com/learn/what-is-a-cloud-service-provider)<br>
 [What is a Cloud Provider? - Definition from Techopedia](https://www.techopedia.com/definition/133/cloud-provider)<br>
 [What is a Cloud Service Provider? | Microsoft Azure](https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-a-cloud-provider/)<br>
-[What is IaaS? Infrastructure as a Service | Microsoft Azure](https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-iaas#:~:text=Infrastructure%20as%20a%20service%20(IaaS,de%20paiement%20%C3%A0%20l%27utilisation.)<br>
+[What is IaaS? Infrastructure as a Service | Microsoft Azure](https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-iaas#:~:text=Infrastructure%20as%20a%20service%20\(IaaS,de%20paiement%20%C3%A0%20l%27utilisation.)<br>
 [Infrastructure as a service - Wikipedia](https://en.wikipedia.org/wiki/Infrastructure_as_a_service)<br>
 [What is PaaS? Platform as a Service | Microsoft Azure](https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-paas#:~:text=Le%20PaaS%20permet%20d%27%C3%A9viter,de%20d%C3%A9veloppement%20et%20autres%20ressources.)<br>
 [What Is PaaS?  |  Google Cloud](https://cloud.google.com/learn/what-is-paas)<br>
