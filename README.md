@@ -1,4 +1,5 @@
-![cover](https://github.com/HiNett/lockify_moonshot/assets/147847949/540058cb-99ce-4fdf-a052-13cace5cc4bc)LOCKIFY is a Web application offering an online data storage service. It's a student-led project, with no company or large development team behind it. The project is open-source, although sensitive data is (obviously) not shared.
+![Cover](https://github.com/HiNett/lockify_moonshot/assets/147847949/f9ff0a1b-d04c-415a-9df2-bfb0f07d1ffd)
+LOCKIFY is a Web application offering an online data storage service. It's a student-led project, with no company or large development team behind it. The project is open-source, although sensitive data is (obviously) not shared.
 
 You can open Issues if you encounter a problem, or if you wish to propose the addition of Functionalities or services (obviously, staying within the theme of the Online Storage Service).
 
